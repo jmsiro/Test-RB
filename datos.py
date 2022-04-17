@@ -1,5 +1,5 @@
 from openpyxl import Workbook, load_workbook
-from itertools import count
+from itertools import count #Count es una función con 2 argumentos (start, step), que crea un itinerador - Use esta en lugar de un range ya que la función para obtener la ultima fila y ultima columna no devolvian el resultado correcto.
 
 def armado_matriz(wb):
     # Abro libro. Los flags indican que es modo lectura y que muesta los resultados de las formulas del excel.
@@ -28,9 +28,3 @@ def armado_matriz(wb):
                     datos[hoja.cell(row=1, column=c).value] = hoja.cell(row=r, column=c).value
     
     return matriz
-    
-
-# m = armado_matriz('/home/user/Escritorio/Programacion/Prueba_Rocketbot/Base/Base Seguimiento Observ Auditoría al_30042021.xlsx')
-
-# for i in count():
-#     print(m[i])

@@ -716,3 +716,163 @@ Read port: 34731
 1650225184042	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://roc.myrb.io"
 console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://roc.myrb.io"
+1650225349190	geckodriver	INFO	Listening on 127.0.0.1:34259
+1650225349194	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "38631" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiles0JZFz"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1650225349970	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiles0JZFz/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:38631/devtools/browser/a95a98a9-8f01-443a-893e-ea9092167c78
+1650225351621	Marionette	INFO	Listening on port 35827
+Read port: 35827
+1650225351720	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://roc.myrb.io"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://roc.myrb.io"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://roc.myrb.io"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://roc.myrb.io"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://roc.myrb.io"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://roc.myrb.io"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://roc.myrb.io"
+1650225490276	Marionette	INFO	Stopped listening on port 35827
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1650225493347	Marionette	INFO	Stopped listening on port 34731
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1650225706837	geckodriver	INFO	Listening on 127.0.0.1:40955
+1650225706842	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "51601" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileiFoAkW"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1650225707656	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileiFoAkW/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51601/devtools/browser/8a2f961a-c87d-4bc2-b4b1-c0b56bbf68b2
+1650225709098	Marionette	INFO	Listening on port 37851
+Read port: 37851
+1650225709159	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://roc.myrb.io"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://roc.myrb.io"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://roc.myrb.io"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://roc.myrb.io"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://roc.myrb.io"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://roc.myrb.io"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://roc.myrb.io"
+1650226121563	geckodriver	INFO	Listening on 127.0.0.1:54441
+1650226121568	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "55751" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileKFvW1j"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1650226122326	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileKFvW1j/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55751/devtools/browser/2b513e7d-2983-49cd-8369-dd153f31a70a
+1650226123986	Marionette	INFO	Listening on port 40929
+Read port: 40929
+1650226124091	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://roc.myrb.io"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://roc.myrb.io"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://roc.myrb.io"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://roc.myrb.io"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://roc.myrb.io"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://roc.myrb.io"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://roc.myrb.io"
+1650231554876	geckodriver	INFO	Listening on 127.0.0.1:56159
+1650231554880	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "48707" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile51J0dS"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1650231555705	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile51J0dS/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:48707/devtools/browser/35c91475-0c58-4971-9bc1-95da56c338ed
+1650231557269	Marionette	INFO	Listening on port 35607
+Read port: 35607
+1650231557309	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://roc.myrb.io"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://roc.myrb.io"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://roc.myrb.io"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://roc.myrb.io"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://roc.myrb.io"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://roc.myrb.io"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://roc.myrb.io"
+1650232075659	Marionette	INFO	Stopped listening on port 35607
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1650232489743	geckodriver	INFO	Listening on 127.0.0.1:59255
+1650232489748	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "48599" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile1JD0Ao"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1650232490575	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile1JD0Ao/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:48599/devtools/browser/3ce83c6e-86e5-40bc-9fa0-608fd2bfda58
+1650232492262	Marionette	INFO	Listening on port 34509
+Read port: 34509
+1650232492428	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650232548524	Marionette	INFO	Stopped listening on port 34509
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1650232781917	geckodriver	INFO	Listening on 127.0.0.1:58629
+1650232781921	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "34667" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileq6cmKm"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1650232782749	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileq6cmKm/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:34667/devtools/browser/b1da554c-7e84-456f-8a44-b06473531550
+1650232784650	Marionette	INFO	Listening on port 43209
+Read port: 43209
+1650232784761	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650232811232	geckodriver	INFO	Listening on 127.0.0.1:60361
+1650232811236	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59275" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilesNvV4g"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1650232812060	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilesNvV4g/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59275/devtools/browser/d2b7b57d-7012-4c89-bc84-7fc285fda52b
+1650232813865	Marionette	INFO	Listening on port 40535
+Read port: 40535
+1650232813968	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://roc.myrb.io"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://roc.myrb.io"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://roc.myrb.io"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://roc.myrb.io"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://roc.myrb.io"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://roc.myrb.io"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://roc.myrb.io"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://roc.myrb.io"
+1650236905961	Marionette	INFO	Stopped listening on port 40535
+1650237975745	geckodriver	INFO	Listening on 127.0.0.1:45957
+1650237976257	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "50205" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilebswrPK"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1650237977157	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilebswrPK/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50205/devtools/browser/1df52521-650d-48e0-8338-580dd431eaef
+1650237979005	Marionette	INFO	Listening on port 39007
+Read port: 39007
+1650237979114	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://roc.myrb.io"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://roc.myrb.io"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://roc.myrb.io"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://roc.myrb.io"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://roc.myrb.io"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://roc.myrb.io"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://roc.myrb.io"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://roc.myrb.io"
+1650238147595	Marionette	INFO	Stopped listening on port 39007
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
