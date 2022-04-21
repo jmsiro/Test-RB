@@ -1,5 +1,5 @@
 from datos import armado_matriz
-from formulario import completar_formulario
+from formulario import *
 from correo import enviar_email
 
 # Ruta de acceso al archivo 'Base' - Podria definirse como un input
@@ -35,7 +35,6 @@ for linea in range(0,len(tablero)):
         else:
             desconocidos +=1
         
-
 print(f"""Proceso finalizado con exito!
     - Se enviaron {completados} Formularios de Auditoria
     - Se registraron los siguientes errores al completar los formularios:
@@ -44,3 +43,5 @@ print(f"""Proceso finalizado con exito!
     - Aun se encuentra pendientes {pendientes} observaciones de auditoria.
     - Se encontraron {desconocidos} clasificaciones de estado desconocidas.
     """)
+
+cerrar_formulario()
